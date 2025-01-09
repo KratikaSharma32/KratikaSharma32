@@ -1,4 +1,4 @@
-![logo] (https://github.com/KratikaSharma32/KratikaSharma32/blob/main/Banner.png.jpg)
+
 <h1 align="center">Hi 👋, I'm Kratika Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fscaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9&psig=AOvVaw2WKzgajZiWUZ4fTaY9OKKN&ust=1736504944503000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiDnLi36IoDFQAAAAAdAAAAABBN">
